@@ -1,2 +1,4 @@
 Hola, soy Carmen, esto es una practica de Git  
-Cambio desde la rama master.
+Cambio desde la rama master y desarrollo. 
+Estoy aprendiendo Git paso a paso. 
+Estoy estudiando un GS de DAW.
